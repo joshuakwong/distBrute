@@ -12,4 +12,4 @@ There are couple of advantages to run bruteforcer on a so-called distributed sys
 
 
 ### How it works? (Subject to change since this is still a work in prog)
-
+The idea is to have a script that runs all the bruteforcing for you, so you don't have to do it manually. You supply a domain name, it does everything for you. It even scales. 
